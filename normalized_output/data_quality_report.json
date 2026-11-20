@@ -1,0 +1,42 @@
+{
+  "total_records_table1": 16,
+  "total_records_table2": 13,
+  "total_unique_song_ids": 25,
+  "duplicate_records_detected": 4,
+  "overlapping_song_ids": [
+    "2takcwOaAZWiXQijPHIx7B",
+    "4uLU6hMCjMI75M1A2tKUQC",
+    "6DCZcSspjsKoFjzjrWoCEA",
+    "7qiZfU4dY1lWllzX7mPBI3"
+  ],
+  "missing_values_per_column": {
+    "id": 0,
+    "title": 0,
+    "danceability": 0,
+    "energy": 2,
+    "mood": 0,
+    "acousticness": 1,
+    "tempo": 0,
+    "duration_ms": 0,
+    "num_sections": 0,
+    "num_segments": 0,
+    "valence": 16
+  },
+  "invalid_values_per_column": {
+    "id": 0,
+    "title": 0,
+    "danceability": 1,
+    "energy": 0,
+    "mood": 0,
+    "acousticness": 1,
+    "tempo": 1,
+    "duration_ms": 0,
+    "num_sections": 0,
+    "num_segments": 0,
+    "valence": 0
+  },
+  "conflicting_attributes": 1,
+  "rejected_records": 0,
+  "successfully_normalized_records": 25,
+  "suspicious_outliers": 3
+}

@@ -1,0 +1,2 @@
+song_id,column,table1_value,table2_value,selected_value,selected_source,resolution_reason
+4uLU6hMCjMI75M1A2tKUQC,danceability,0.727,0.74,0.727,table1,both_valid_different_values; configured_source_priority
